@@ -1,0 +1,44 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: Le répertoire intermédiaire (x64\Debug\) contient des fichiers partagés provenant d'un autre projet (SimpleEngineWithOpenGL-004.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  Car.cpp
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Maths.h(7,31): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car.cpp(19,20): warning C4305: '=' : troncation de 'double' à 'float'
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car.cpp(134,44): warning C4244: '-=' : conversion de 'float' en 'int', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car.cpp(135,44): warning C4244: '+=' : conversion de 'float' en 'int', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car.cpp(142,44): warning C4244: '+=' : conversion de 'float' en 'int', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car.cpp(143,44): warning C4244: '-=' : conversion de 'float' en 'int', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car.cpp(148,25): warning C4244: '-=' : conversion de 'double' en 'float', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car.cpp(154,25): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car.cpp(166,9): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car.cpp(171,9): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car.cpp(176,9): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car.cpp(186,9): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car.cpp(191,9): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car.cpp(196,9): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+  Car2.cpp
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Maths.h(7,31): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car2.cpp(19,20): warning C4305: '=' : troncation de 'double' à 'float'
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car2.cpp(133,44): warning C4244: '-=' : conversion de 'float' en 'int', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car2.cpp(134,44): warning C4244: '+=' : conversion de 'float' en 'int', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car2.cpp(141,44): warning C4244: '+=' : conversion de 'float' en 'int', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car2.cpp(142,44): warning C4244: '-=' : conversion de 'float' en 'int', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car2.cpp(147,25): warning C4244: '-=' : conversion de 'double' en 'float', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car2.cpp(153,25): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car2.cpp(165,9): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car2.cpp(170,9): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car2.cpp(175,9): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car2.cpp(185,9): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car2.cpp(190,9): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Car2.cpp(195,9): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+  Game.cpp
+  GameObjects.cpp
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\GameObjects.cpp(32,9): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\GameObjects.cpp(37,9): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\GameObjects.cpp(42,9): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\GameObjects.cpp(43,9): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\GameObjects.cpp(48,9): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\GameObjects.cpp(53,9): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+  Vector2.cpp
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Maths.h(7,31): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  Génération de code en cours...
+D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\SimpleEngineWithOpenGL-004\Maths.h(63): warning C4717: 'Maths::sqrt' : récurrent sur tous les chemins d'accès de contrôle, la fonction entraînera un dépassement de capacité de la pile d'exécution
+  SimpleEngineWithOpenGL-004.vcxproj -> D:\ARTFX\GAME_3\Programmation\Projet C++\Karting\KartingProject\x64\Debug\Karting.exe
